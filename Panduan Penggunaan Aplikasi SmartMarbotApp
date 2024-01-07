@@ -1,0 +1,39 @@
+Aplikasi SmartMarbotApp Ini berbentuk console
+Aplikasi ini adalah sebuah aplikasi untuk melihat tugas marbot manambahkan anggota baru, mendata anggota dan alumni.
+
+Panduan aplikasi SmartMarbotApp sebagai berikut :
+
+1. Informasi Tugas Dari Marbot
+   1. Pilih opsi 1 pada menu utama
+   2. Aplikasi akan menampilkan daftar tugas yang harus dikerjakan marbot
+   3. Jika sudah pilih opsi 0 ntuk kembali ke menu utama.
+
+2. Menambahkan Anggota Baru
+   1.Pilih opsi 2 pada menu utama.
+   2.Isi informasi anggota seperti nama, alamat, jenis kelamin, tahun masuk, dan tahun keluar (jika alumni).
+   3.Pilih jenis anggota dengan memasukkan Aktif atau Alumni.
+   4.Data anggota baru akan ditambahkan ke dalam daftar.
+   5.Jika sudah pilih opsi 0 ntuk kembali ke menu utama.
+
+3. Mengecek Anggota Aktif
+   1.Pilih opsi 3 pada menu utama.
+   2.Aplikasi akan menampilkan daftar anggota aktif beserta informasi seperti nama, alamat, jenis kelamin,tahun masuk, dan lainnya.
+   3.Jika tidak ada anggota aktif, akan ditampilkan pesan sesuai.
+   4.Jika sudah pilih opsi 0 ntuk kembali ke menu utama.
+
+4. Mengecek Alumni
+   1.Pilih opsi 4 pada menu utama.
+   2.Aplikasi akan menampilkan daftar alumni beserta informasi seperti nama, alamat, jenis kelamin, tahun masuk, tahun keluar,    dan lama bertugas.
+   3.Jika tidak ada alumni, akan ditampilkan pesan sesuai.
+   4.Jika sudah pilih opsi 0 ntuk kembali ke menu utama.
+
+5. Menampilkan Jumlah Anggota Dan alumni
+   1.Pilih opsi 5 pada menu utama.
+   2.Aplikasi akan menampilkan jumlah total anggota yang terdaftar.
+   3.Jika sudah pilih opsi 0 ntuk kembali ke menu utama.
+
+6. Keluar dari Program
+   1.Pilih opsi 0 pada menu utama.
+   2.Aplikasi akan keluar dari program.
+
+Gunakan panduan ini sebagai referensi saat menjalankan atau menguji aplikasi SmartMarbotApp. 
